@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Benner\Benner\bin\Debug\net6.0\Benner.exe
+C:\Users\David\Documents\Benner\Benner\bin\Debug\net6.0\Benner.deps.json
+C:\Users\David\Documents\Benner\Benner\bin\Debug\net6.0\Benner.runtimeconfig.json
+C:\Users\David\Documents\Benner\Benner\bin\Debug\net6.0\Benner.dll
+C:\Users\David\Documents\Benner\Benner\bin\Debug\net6.0\Benner.pdb
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.AssemblyInfo.cs
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.dll
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\refint\Benner.dll
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.pdb
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\Benner.genruntimeconfig.cache
+C:\Users\David\Documents\Benner\Benner\obj\Debug\net6.0\ref\Benner.dll
